@@ -1,0 +1,30 @@
+.city-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .city-table th, .city-table td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .city-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .city-table tr:hover {
+    background-color: #f2f2f2;
+  }
+  .weather-container {
+    padding: 20px;
+  }
+  
+  .weather-info {
+    margin-bottom: 10px;
+  }
+  
+  .weather-info p {
+    margin: 5px 0;
+  }
+  
